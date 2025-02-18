@@ -1,4 +1,13 @@
 <?php
 
-echo "here";
+
+$txtAction = $_POST['txtAction'];
+switch($txtAction){
+  case "Main":
+  $txtRtnCall = "index.html.php";
+    echo "here";
+  break;
+}
+
+include ($txtRtnCall);
 ?>
