@@ -1,6 +1,6 @@
 <?php
 
-
+txtRtnCall = "index.html.php";
 $txtAction = $_POST['txtAction'];
 switch($txtAction){
   case "Main":
