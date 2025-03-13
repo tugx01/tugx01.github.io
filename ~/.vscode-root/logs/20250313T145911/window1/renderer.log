@@ -6,3 +6,14 @@
 2025-03-13 15:00:02.083 [info] Started local extension host with pid 94819.
 2025-03-13 15:00:02.731 [info] Settings Sync: Account status changed from uninitialized to unavailable
 2025-03-13 15:00:04.678 [info] [perf] Render performance baseline is 19ms
+2025-03-13 15:02:23.688 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at cut.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3207:9506)
+    at async cut.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3207:9133)
+    at async jme.Eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1797:12151)
+    at async jme.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1797:10626)
+    at async out.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3207:5991)
+    at async aUe.r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1797:21104)
+    at async Hbt.acquire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async lUe.createModelReference (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1797:22660)
+    at async Promise.all (index 1)
+    at async Vwt.c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1258:20952)
