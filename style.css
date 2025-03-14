@@ -1,8 +1,9 @@
 body {
-    background-color: #ffceff;
+    background-color: #fcfbfb;
 }
 
 header {
+    border: 2px solid aliceblue;
     border-style: groove;
-    border-color: aliceblue;
+    padding: 5px;
 }
