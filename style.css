@@ -15,11 +15,15 @@ header {
 
 #img1 {
    float:left;
-    width: 50%;
-    height: 50%;
+    width: 20%;
+    height: 20%;
     box-shadow: 3px 3px 5px snow;
 }
 #intro {
     text-align: center;
-    font-size: 24px;
+    font-size: 56px;
+}
+
+.row {
+    border: 2px solid orange
 }
