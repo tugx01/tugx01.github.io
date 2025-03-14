@@ -15,8 +15,8 @@ header {
 
 #img1 {
    float:left;
-    width: 200px;
-    height: 200px;
+    width: 50%;
+    height: 50%;
     box-shadow: 3px 3px 5px snow;
 }
 #intro {
